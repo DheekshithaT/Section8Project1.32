@@ -1,0 +1,7 @@
+C:\Users\91807\Desktop\December\StuData\StuData\obj\Debug\StuData.csproj.AssemblyReference.cache
+C:\Users\91807\Desktop\December\StuData\StuData\obj\Debug\StuData.csproj.CoreCompileInputs.cache
+C:\Users\91807\Desktop\December\StuData\StuData\bin\Debug\StuData.exe.config
+C:\Users\91807\Desktop\December\StuData\StuData\bin\Debug\StuData.exe
+C:\Users\91807\Desktop\December\StuData\StuData\bin\Debug\StuData.pdb
+C:\Users\91807\Desktop\December\StuData\StuData\obj\Debug\StuData.exe
+C:\Users\91807\Desktop\December\StuData\StuData\obj\Debug\StuData.pdb
